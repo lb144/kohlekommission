@@ -11,16 +11,25 @@ Im Zentrum der Analyse steht das Netzwerk der Kohlekommission, welches auf seine
 Es wird ein ungerichtetes two-mode Netzwerk (Akteur-Organisations-Netzwerk) aus Personen/Mitgliedern der Kohlekommission und Organisationen erstellt. Fehlende Daten werden mit NA kodiert.
 
 Edgelist
+
 Id 
+
 (eindeutige Codierung des Knoten)
+
 Codiert von 1 bis 31, jede ID entspricht einem Mitglied oder einer Organisation
+
 From (id Mitglied der Kommission)
+
 To (alle Mitgliedschaften der Person in anderen Organisation wie zB politische Parteien, Unternehmen, Verbände, Vereine)
 
 Nodelist
+
 Id
+
 (identische Id wie aus der Edgelist zur Identifikation der Knoten, 1 bis 31)
+
 Name (Zusätzliche Angabe zur Identifikation)
+
 Type (Handelt es sich um eine Person oder Organisation?)
 0 = Person, 
 1 = Organisation
