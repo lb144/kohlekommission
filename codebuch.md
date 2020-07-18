@@ -3,7 +3,7 @@ Inhalt
 
     edgelist_kohle.csv (Edgelist)
     nodelist_kohle.csv (Nodelist)
-    Codebuch.rm (Codierung der Datensätze)
+    Codebuch.md (Codierung der Datensätze)
 
 Ursprung und Datenerhebung
 
