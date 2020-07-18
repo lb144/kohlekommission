@@ -33,20 +33,24 @@ Name (Zusätzliche Angabe zur Identifikation)
 Type (Handelt es sich um eine Person oder Organisation?)
 0 = Person, 
 1 = Organisation
+
 Sex (Geschlecht)
 0 = männlich, 
 1 = weiblich
+
 Age (Alter der Person, bei Organisation NA)
 0 = 25-40,
 1 = 40-55, 
 2 = 55-70, 
 3 = Ü70
-Party (Ist die Person Mitglied einer politischen Partei?, bei Organisation NA)
+
+Party (Ist die Person Mitglied einer politischen Partei?)
 0 = keine,
 1 = CDU
 2=SPD
 3=FDP
 4=Grüne
+
 Representation (Funktion einer Person innerhalb der Kommission)
 0 = Politik
 1 = Wirtschaft 
@@ -54,10 +58,12 @@ Representation (Funktion einer Person innerhalb der Kommission)
 3 = Umwelt 
 4 = Regionen
 5 = Wissenschaft)
+
 Position (Position der Person in der Kommission)
 0 = kein Stimmrecht 
 1 = Mitglied
 2 = Vorsitz
+
 State (Aus welchem Bundesland stammt die Person?)
 0 = Baden Württemberg
 1 = Bayern
