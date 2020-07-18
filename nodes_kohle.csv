@@ -1,0 +1,70 @@
+id,name,sex,age,party,representation,position,state
+Platzeck,Matthias Platzeck,0,2,2,NA,2,3
+Pofalla,Ronald Pofalla,0,2,1,NA,2,9
+Tillich,Stanislaw Tillich,0,3,1,NA,2,12
+Praetorius,Barbara Praetorius,1,2,0,3,2,2
+Hasselfeldt,Gerda Hasselfeldt,1,3,1,NA,1,2
+Kampeter,Steffen Kampeter,0,2,1,1,1,9
+Kapferer,Stefan Kapferer,0,2,3,1,1,0
+Kempf,Dieter Kempf,0,3,0,1,1,1
+Nemat,Claudia Nemat,1,1,0,1,1,9
+Reiche,Katharina Reiche,1,1,1,1,1,3
+Roestel,Gunda Roestel,1,2,4,1,1,12
+Schweitzer,Eric Schweitzer,0,1,3,1,1,NA
+Grothus,Antje Grothus,1,2,0,4,1,9
+Wodtke,Hannelore Wodtke,1,3,1,4,1,3
+Herntier,Christine Herntier,1,2,0,4,1,3
+Kreuzberg,Michael Kreuzberg,0,2,1,4,1,9
+Priggen,Reiner Priggen,0,2,4,4,1,9
+Vassiliadis,Michael Vassiliadis,0,2,2,2,1,9
+Scheidt,Andreas Scheidt,0,2,2,2,1,9
+Koerzell,Stefan Koerzell,0,2,2,2,1,6
+Kaiser,Martin Kaiser,0,1,0,3,1,
+Weiger,Hubert Weiger,0,3,0,3,1,1
+Niebert,Kai Niebert,0,1,0,3,1,
+Allmendinger,Jutta Allmendinger,1,2,2,5,1,2
+Schoenefeld,Christiane Schoenefeld,1,2,2,5,1,9
+Matthes,Felix Matthes,0,2,0,5,1,2
+Schellnhuber,Hans J Schellnhuber,0,3,0,5,1,1
+Niebuhr,Annekatrin Niebuhr,1,1,0,5,1,14
+Wehrspohn,Ralf Wehrspohn,0,1,0,5,1,13
+Laemmel,Andreas Laemmel,0,2,1,1,0,12
+Lenz,Andreas Lenz,0,0,1,1,0,1
+Miersch,Matthias Miersch,0,1,2,3,0,8
+CDU,CDU/CSU,NA,NA,NA,NA,NA,NA
+SPD,SPD,NA,NA,NA,NA,NA,NA
+FDP,FDP,NA,NA,NA,NA,NA,NA
+Gruene,Die Gruenen,NA,NA,NA,NA,NA,NA
+DB,Deutsche Bahn,NA,NA,NA,NA,NA,NA
+DRK,Deutsches Rotes Kreuz,NA,NA,NA,NA,NA,NA
+BDA,BDA,NA,NA,NA,NA,NA,NA
+BDEW,BDEW,NA,NA,NA,NA,NA,NA
+BDI,BDI,NA,NA,NA,NA,NA,NA
+Datev,Datev,NA,NA,NA,NA,NA,NA
+Bitkom,Bitkom,NA,NA,NA,NA,NA,NA
+Telekom,Telekom,NA,NA,NA,NA,NA,NA
+McKinsey,McKinsey,NA,NA,NA,NA,NA,NA
+VKU,VKU,NA,NA,NA,NA,NA,NA
+EnBW,EnBW,NA,NA,NA,NA,NA,NA
+DIHT,DIHT,NA,NA,NA,NA,NA,NA
+Alba,Alba,NA,NA,NA,NA,NA,NA
+IHK,IHK,NA,NA,NA,NA,NA,NA
+BfB,Buirer für Buir,NA,NA,NA,NA,NA,NA
+Spremberger,Spremberger Tuche,NA,NA,NA,NA,NA,NA
+LEENRW,LEE NRW,NA,NA,NA,NA,NA,NA
+IGBCE,IG BCE,NA,NA,NA,NA,NA,NA
+Verdi,Verdi,NA,NA,NA,NA,NA,NA
+Eon,Eon,NA,NA,NA,NA,NA,NA
+DGB,DGB,NA,NA,NA,NA,NA,NA
+Greenpeace,Greenpeace,NA,NA,NA,NA,NA,NA
+BUND,BUND,NA,NA,NA,NA,NA,NA
+DNR,DNR,NA,NA,NA,NA,NA,NA
+IAB,IAB Nord,NA,NA,NA,NA,NA,NA
+WZB,WZB,NA,NA,NA,NA,NA,NA
+OekoInstitut,Oeko Institut,NA,NA,NA,NA,NA,NA
+Klimafolge,Institut für Klimafolgenforschung,NA,NA,NA,NA,NA,NA
+Stockholm,Stockholm Resilience Center,NA,NA,NA,NA,NA,NA
+WBGU,WBGU,NA,NA,NA,NA,NA,NA
+Fraunhofer,Fraunhofer Institut,NA,NA,NA,NA,NA,NA
+Agora,Thinktank Agora Energiewende,NA,NA,NA,NA,NA,NA
+IPCC,IPCC,NA,NA,NA,NA,NA,NA
