@@ -1,0 +1,71 @@
+id,name,sex,age,party,representation,position,state,type
+Platzeck,Matthias Platzeck,0,2,2,0,2,3,0
+Pofalla,Ronald Pofalla,0,2,1,0,2,9,0
+Tillich,Stanislaw Tillich,0,3,1,0,2,12,0
+Praetorius,Barbara Praetorius,1,2,0,3,2,2,0
+Hasselfeldt,Gerda Hasselfeldt,1,3,1,0,1,2,0
+Kampeter,Steffen Kampeter,0,2,1,1,1,9,0
+Kapferer,Stefan Kapferer,0,2,3,1,1,0,0
+Kempf,Dieter Kempf,0,3,0,1,1,1,0
+Nemat,Claudia Nemat,1,1,0,1,1,9,0
+Reiche,Katharina Reiche,1,1,1,1,1,3,0
+Roestel,Gunda Roestel,1,2,4,1,1,12,0
+Schweitzer,Eric Schweitzer,0,1,3,1,1,99,0
+Grothus,Antje Grothus,1,2,0,4,1,9,0
+Wodtke,Hannelore Wodtke,1,3,1,4,1,3,0
+Herntier,Christine Herntier,1,2,0,4,1,3,0
+Kreuzberg,Michael Kreuzberg,0,2,1,4,1,9,0
+Priggen,Reiner Priggen,0,2,4,4,1,9,0
+Vassiliadis,Michael Vassiliadis,0,2,2,2,1,9,0
+Scheidt,Andreas Scheidt,0,2,2,2,1,9,0
+Koerzell,Stefan Koerzell,0,2,2,2,1,6,0
+Kaiser,Martin Kaiser,0,1,0,3,1,,0
+Weiger,Hubert Weiger,0,3,0,3,1,1,0
+Niebert,Kai Niebert,0,1,0,3,1,,0
+Allmendinger,Jutta Allmendinger,1,2,2,5,1,2,0
+Schoenefeld,Christiane Schoenefeld,1,2,2,5,1,9,0
+Matthes,Felix Matthes,0,2,0,5,1,2,0
+Schellnhuber,Hans J Schellnhuber,0,3,0,5,1,1,0
+Niebuhr,Annekatrin Niebuhr,1,1,0,5,1,14,0
+Wehrspohn,Ralf Wehrspohn,0,1,0,5,1,13,0
+Laemmel,Andreas Laemmel,0,2,1,0,0,12,0
+Lenz,Andreas Lenz,0,0,1,0,0,1,0
+Miersch,Matthias Miersch,0,1,2,0,0,8,0
+CDU,CDU/CSU,99,99,99,99,99,99,1
+SPD,SPD,99,99,99,99,99,99,1
+FDP,FDP,99,99,99,99,99,99,1
+Gruene,Die Gruenen,99,99,99,99,99,99,1
+DB,Deutsche Bahn,99,99,99,99,99,99,1
+DRK,Deutsches Rotes Kreuz,99,99,99,99,99,99,1
+BDA,BDA,99,99,99,99,99,99,1
+BDEW,BDEW,99,99,99,99,99,99,1
+BDI,BDI,99,99,99,99,99,99,1
+Datev,Datev,99,99,99,99,99,99,1
+Bitkom,Bitkom,99,99,99,99,99,99,1
+Telekom,Telekom,99,99,99,99,99,99,1
+McKinsey,McKinsey,99,99,99,99,99,99,1
+VKU,VKU,99,99,99,99,99,99,1
+EnBW,EnBW,99,99,99,99,99,99,1
+DIHT,DIHT,99,99,99,99,99,99,1
+Alba,Alba,99,99,99,99,99,99,1
+IHK,IHK,99,99,99,99,99,99,1
+BfB,Buirer fuer Buir,99,99,99,99,99,99,1
+Spremberger,Spremberger Tuche,99,99,99,99,99,99,1
+LEENRW,LEE NRW,99,99,99,99,99,99,1
+IGBCE,IG BCE,99,99,99,99,99,99,1
+Verdi,Verdi,99,99,99,99,99,99,1
+Eon,Eon,99,99,99,99,99,99,1
+DGB,DGB,99,99,99,99,99,99,1
+Greenpeace,Greenpeace,99,99,99,99,99,99,1
+BUND,BUND,99,99,99,99,99,99,1
+DNR,DNR,99,99,99,99,99,99,1
+IAB,IAB Nord,99,99,99,99,99,99,1
+WZB,WZB,99,99,99,99,99,99,1
+OekoInstitut,Oeko Institut,99,99,99,99,99,99,1
+Klimafolge,Institut fuer Klimafolgenforschung,99,99,99,99,99,99,1
+Stockholm,Stockholm Resilience Center,99,99,99,99,99,99,1
+WBGU,WBGU,99,99,99,99,99,99,1
+Fraunhofer,Fraunhofer Institut,99,99,99,99,99,99,1
+Agora,Thinktank Agora Energiewende,99,99,99,99,99,99,1
+IPCC,IPCC,99,99,99,99,99,99,1
+KK,Kohlekommission,99,99,1,99,99,99,1
