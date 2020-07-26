@@ -8,25 +8,23 @@ Inhalt
 Ursprung und Datenerhebung
 
 Im Zentrum der Analyse steht das Netzwerk der Kohlekommission, welches auf seine Mitglieder und deren Mitgliedschaften in weiteren Organisationen (Partei) untersucht und interpretiert werden soll. Als Grundlage für die Analyse dienen ein Artikel der klimareporter über die Mitglieder der Kohlekommission (https://www.klimareporter.de/deutschland/das-sind-die-mitglieder-der-kohlekommission), ergänzend dazu das Munzinger Archiv (https://www.munzinger.de/search/start.jsp) und die Pressemeldung des Bundesministerium für Wirtschaft zur Kommission (https://www.bmwi.de/Redaktion/DE/Pressemitteilungen/2018/20180606-bundeskabinett-setzt-kommission-wachstum-strukturwandel-und-beschaeftigung-ein.html).
-Es wird ein ungerichtetes two-mode Netzwerk (Akteur-Organisations-Netzwerk) aus Personen/Mitgliedern der Kohlekommission und Organisationen erstellt. Fehlende Daten werden mit NA kodiert.
+Es wird ein ungerichtetes two-mode Netzwerk (Akteur-Organisations-Netzwerk) aus Personen/Mitgliedern der Kohlekommission und Organisationen erstellt. Fehlende Daten werden mit 99 kodiert.
 
 Edgelist
 
 Id 
 
-(eindeutige Codierung des Knoten)
-
-Codiert von 1 bis 31, jede ID entspricht einem Mitglied oder einer Organisation
+(eindeutige Codierung des Knoten, jede ID entspricht einem Mitglied oder einer Organisation)
 
 From (id Mitglied der Kommission)
 
-To (alle Mitgliedschaften der Person in anderen Organisation wie zB politische Parteien, Unternehmen, Verbände, Vereine)
+To (id alle Mitgliedschaften der Person in anderen Organisation wie zB politische Parteien, Unternehmen, Verbände, Vereine)
 
 Nodelist
 
 Id
 
-(identische Id wie aus der Edgelist zur Identifikation der Knoten, 1 bis 31)
+(identische Id wie aus der Edgelist zur Identifikation der Knoten)
 
 Name (Zusätzliche Angabe zur Identifikation)
 
