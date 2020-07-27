@@ -7,7 +7,7 @@ Inhalt
 
 Ursprung und Datenerhebung
 
-Im Zentrum der Analyse steht das Netzwerk der Kohlekommission, welches auf seine Mitglieder und deren Mitgliedschaften in weiteren Organisationen (Partei) untersucht und interpretiert werden soll. Als Grundlage für die Analyse dienen ein Artikel der klimareporter über die Mitglieder der Kohlekommission (https://www.klimareporter.de/deutschland/das-sind-die-mitglieder-der-kohlekommission), ergänzend dazu das Munzinger Archiv (https://www.munzinger.de/search/start.jsp) und die Pressemeldung des Bundesministerium für Wirtschaft zur Kommission (https://www.bmwi.de/Redaktion/DE/Pressemitteilungen/2018/20180606-bundeskabinett-setzt-kommission-wachstum-strukturwandel-und-beschaeftigung-ein.html).
+Im Zentrum der Analyse steht das Netzwerk der Kohlekommission, welches auf seine Mitglieder und deren Mitgliedschaften in weiteren Organisationen (Parteien) untersucht und interpretiert werden soll. Als Grundlage für die Analyse dienen ein Artikel der Klimareporter über die Mitglieder der Kohlekommission (https://www.klimareporter.de/deutschland/das-sind-die-mitglieder-der-kohlekommission), ergänzend dazu das Munzinger Archiv (https://www.munzinger.de/search/start.jsp) und die Pressemeldung des Bundesministerium für Wirtschaft zur Kommission (https://www.bmwi.de/Redaktion/DE/Pressemitteilungen/2018/20180606-bundeskabinett-setzt-kommission-wachstum-strukturwandel-und-beschaeftigung-ein.html).
 Es wird ein ungerichtetes two-mode Netzwerk (Akteur-Organisations-Netzwerk) aus Personen/Mitgliedern der Kohlekommission und Organisationen erstellt. Fehlende Daten werden mit 99 kodiert.
 
 Edgelist
@@ -36,7 +36,7 @@ Sex (Geschlecht)
 0 = männlich, 
 1 = weiblich
 
-Age (Alter der Person, bei Organisation NA)
+Age (Alter der Person)
 0 = 25-40,
 1 = 40-55, 
 2 = 55-70, 
@@ -45,9 +45,9 @@ Age (Alter der Person, bei Organisation NA)
 Party (Ist die Person Mitglied einer politischen Partei?)
 0 = keine,
 1 = CDU
-2=SPD
-3=FDP
-4=Grüne
+2 = SPD
+3 = FDP
+4 = Grüne
 
 Representation (Funktion einer Person innerhalb der Kommission)
 0 = Politik
